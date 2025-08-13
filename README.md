@@ -1,5 +1,9 @@
 # PhysicsEval: Inference-Time Techniques to Improve the Reasoning Proficiency of Large Language Models on Physics Problems
 
+[![arXiv](https://img.shields.io/badge/arXiv-2408.10360-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2508.00079)
+[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFAE33?&logo=HuggingFace&logoColor=yellow&labelColor=grey)](https://huggingface.co/datasets/IUTVanguard/PhysicsEval)
+[![PDF](https://img.shields.io/badge/Paper%20PDF-EF3939?style=flat&logo=readme&logoColor=white&color=gray&labelColor=ec1c24)](https://arxiv.org/pdf/2508.00079)
+
 This repository contains the codes used to run the experiments of the PhysicsEval paper. In this paper, we explore various inference time techniques to improve the performance of LLMs on Physics and evaluate the performances. 
 
 To run our Problem Solving Pipeline, go to the [BASE SOLUTION](https://github.com/areebuzair/PhysicsEval/tree/main/BASE%20SOLUTION#readme) directory.
