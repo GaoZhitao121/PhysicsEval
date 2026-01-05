@@ -158,5 +158,5 @@ if __name__ == "__main__":
         for f in Path('.').glob('*.jsonl'):
             process_file_concurrently(f)
 
-# python eval_gpt.py eval_input.jsonl
+# python eval_gpt.py proposed_solution_by_Qwen2.5-7B-Instruct.jsonl
 
